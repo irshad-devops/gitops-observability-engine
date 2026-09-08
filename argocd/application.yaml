@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: REPLACE_REPO_URL
+    repoURL: https://github.com/irshad-devops/gitops-observability-engine.git
     targetRevision: main
     path: helm/gitops-demo
     helm:
